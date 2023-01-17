@@ -1,0 +1,1 @@
+print("Istahadul hoque")
